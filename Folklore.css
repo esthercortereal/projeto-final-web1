@@ -14,7 +14,7 @@ body{
 	display: grid;
 	width: auto;
 	height: auto;
-	grid-template-columns:      450px 450px 448px;
+	grid-template-columns:      450px auto auto;
 	grid-template-rows:   90px
 												 35px
 												200px 
